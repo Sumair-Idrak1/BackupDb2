@@ -1,0 +1,91 @@
+rs.status()
+db.getUsers()
+db.getusers()
+use admin
+exit
+show dbs
+exit
+rs.conf()
+show collections
+show dbs;
+exit
+db.isMaster().me
+rs.status()
+exit
+show dbs
+use admin
+rs.status()
+exit
+db.serverStatus()
+rs.status()
+show dbs
+show collections
+use idrakdb
+show dbs
+use admin
+db.dropDatabase()
+show collections
+use restheart
+show dbs
+db._properties.
+db._properties..pretty()
+db._properties.find().pretty()
+db.acl.find().pretty()
+db.users.find().pretty()
+db.test-collection.find().pretty()
+show collections
+use restheart
+show dbs
+use admin
+show dbs
+db.dropDatabase()
+show collections
+use restheart
+show dbs
+show collections
+exit
+show collections
+show collection
+use restheart
+show dbs
+use admin
+show collections
+show collection
+show dbs
+use idrakdb
+use idrakd
+show collections
+db.getUser("idrakuser")
+use admin
+db.getUser("idrakuser")
+it
+db.cdr_calls.find().pretty()
+db.test-collection.find().pretty()
+db.getCollectionNames()
+use idrakdb
+db.getCollectionNames()
+exit
+rs.status()
+exit
+rs.status()
+rs.tatus
+exit
+rs.status()
+use admin
+rs.primary
+exit
+cfg
+rs.status()
+cfg = rs.conf()
+use admin
+exit
+EXIT
+rs.status()
+exit
+db.devices.find().pretty()
+use idrakdb
+db.devices.find().pretty()
+show dbs
+rs.status()
+rs.status
+exit
